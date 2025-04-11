@@ -1,4 +1,4 @@
-package test;
+package designpattern.Structural;
 
 import java.util.ArrayList;
 import java.util.HashMap;
